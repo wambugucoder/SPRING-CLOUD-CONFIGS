@@ -1,0 +1,8 @@
+server:
+    port: 8000
+    
+app1:
+   greetings: hello
+        EN: hello
+        ES: holla
+        en-GB: helloooooo
