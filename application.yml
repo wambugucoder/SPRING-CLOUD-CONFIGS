@@ -17,3 +17,9 @@ micorservice:
     endpoints:
       endpoint:
         url: http://NAMESERVICE/name-service/myname
+
+
+logging:
+  file:
+    name: elk.log
+    path: C:\Users\Jos Wambugu\Desktop\New folder\projects\spring-cloud\logs
