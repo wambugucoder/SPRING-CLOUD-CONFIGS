@@ -22,4 +22,4 @@ micorservice:
 logging:
   file:
     name: elk.log
-    path: C:\Users\Jos Wambugu\Desktop\New folder\projects\spring-cloud\logs
+    path: ${HOME}/Desktop/New folder/projects/spring-cloud/logs
